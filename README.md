@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soobin%20Portfolio&fontSize=90" />
 </div>
 <div align=center>
 	<p>🍀 Introducion 🍀</p>
@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-
 </div>
 <br/>
 <div align=center>
@@ -26,7 +25,4 @@
 	<a href="https://bbiin.github.io/portfolio/">
 		<img src="https://img.shields.io/badge/Portfolio-C4D7E0?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-</div>
-=======
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=portfolio%20Site&fontSize=90" />
 </div>
