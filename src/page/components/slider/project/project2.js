@@ -4,6 +4,7 @@ import movietrailer from 'style/image/movie.png'
 import html from 'style/image/html.png'
 import css from 'style/image/css.png'
 import react from 'style/image/react.svg'
+import reactRouter from 'style/image/reactRouter.svg'
 
 function Project2(){
     return(
@@ -13,11 +14,12 @@ function Project2(){
                 <img className="pic" src={movietrailer}/>
                 <div className="text">
                     <p>상영중인 영화를 확인할 수 있는 사이트를 구현해보고자 하였습니다.</p>
-                    <p>지속적인 업데이트하는 중입니다.</p>
+                    <p>수업 중 진행된 미니 프로젝트이지만 혼자 지속적인 업데이트하는 중입니다.</p>
                     <ul className='logo'>
                         <li><img src={html}/><p>HTML</p></li>
                         <li><img src={css}/><p>CSS</p></li>
                         <li><img src={react}/><p>REACT</p></li>
+                        <li><img src={reactRouter}/><p>REACT Router</p></li>
                     </ul>
                 </div>
             </div>
